@@ -1,0 +1,5 @@
+Homework - Git and GitHub Practice
+1. Created a new branch in my GitHub repository.
+2. Found one of the projects and cloned it to my local repository.
+3. Created a new file called homework.txt and wrote this homework in it.
+4. Pushed the whole content on my new branch.
