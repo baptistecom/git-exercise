@@ -1,1 +1,20 @@
-Hello from main branch!
+Hello from both branches! Welcome to this project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  [ Read 5 lines (converted from DOS format) ]
+^G Help      ^O Write Out ^F Where Is  ^K Cut       ^T Execute   ^C Location
+^X Exit      ^R Read File ^\ Replace   ^U Paste     ^J Justify   ^/ Go To Line
+
